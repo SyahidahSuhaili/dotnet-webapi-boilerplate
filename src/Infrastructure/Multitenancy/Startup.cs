@@ -38,12 +38,13 @@ internal static class Startup
     private static FinbuckleMultiTenantBuilder<FSHTenantInfo> WithQueryStringStrategy(this FinbuckleMultiTenantBuilder<FSHTenantInfo> builder, string queryStringKey) =>
         builder.WithDelegateStrategy(context =>
         {
-            #pragma warning disable CS8619
             if (context is not HttpContext httpContext)
+            {
                 return Task.FromResult((string?)null);
+            }
 
             httpContext.Request.Query.TryGetValue(queryStringKey, out StringValues tenantIdParam);
 
-            return Task.FromResult(tenantIdParam.ToString());
+            return Task.FromResult((string?)tenantIdParam.ToString());
         });
 }
