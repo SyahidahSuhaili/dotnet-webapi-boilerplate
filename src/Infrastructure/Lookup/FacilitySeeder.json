@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "FAC0001",
+    "Name": "HOSPITAL ABC",
+    "Description": "HOSPITAL ABC",
+    "Sequence": "1",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  }
+]

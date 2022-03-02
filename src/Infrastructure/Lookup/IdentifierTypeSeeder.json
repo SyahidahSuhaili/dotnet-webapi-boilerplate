@@ -1,0 +1,122 @@
+[
+  {
+    "Id": "-",
+    "Name": "Select an option",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "0",
+    "IsDefaultIndicator": "TRUE",
+    "IsSystemIndicator": "TRUE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "MKA",
+    "Name": "MyKad",
+    "Description": "MyKad",
+    "Comments": "",
+    "Sequence": "1",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "TRUE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "MKI",
+    "Name": "MyKid",
+    "Description": "MyKid",
+    "Comments": "",
+    "Sequence": "2",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "TRUE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "OLDIC",
+    "Name": "Old I/C",
+    "Description": "Old I/C",
+    "Comments": "",
+    "Sequence": "3",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "BIRCT",
+    "Name": "Birth Certificate",
+    "Description": "Birth Certificate",
+    "Comments": "",
+    "Sequence": "4",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "POLID",
+    "Name": "Police Id",
+    "Description": "Police Id",
+    "Comments": "",
+    "Sequence": "5",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "ARMID",
+    "Name": "Army Id",
+    "Description": "Army Id",
+    "Comments": "",
+    "Sequence": "6",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "PASS",
+    "Name": "Passport",
+    "Description": "Passport",
+    "Comments": "",
+    "Sequence": "7",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "FATIC",
+    "Name": "Fathers I/C",
+    "Description": "Fathers I/C",
+    "Comments": "",
+    "Sequence": "8",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "MOTIC",
+    "Name": "Mothers I/C",
+    "Description": "Mothers I/C",
+    "Comments": "",
+    "Sequence": "9",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "GUID",
+    "Name": "GUID",
+    "Description": "GUID",
+    "Comments": "",
+    "Sequence": "10",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "OTH",
+    "Name": "Others",
+    "Description": "Others",
+    "Comments": "",
+    "Sequence": "11",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  }
+]

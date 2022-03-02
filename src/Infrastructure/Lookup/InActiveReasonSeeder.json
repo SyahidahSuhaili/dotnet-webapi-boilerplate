@@ -1,0 +1,46 @@
+[
+  {
+    "Id": "-",
+    "Name": "Select an option",
+    "Description": "",
+    "Comments": "",
+    "InActiveStatusId": "I",
+    "Sequence": "0",
+    "IsDefaultIndicator": "TRUE",
+    "IsSystemIndicator": "TRUE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "BNP",
+    "Name": "BILLS NOT PAID",
+    "Description": "",
+    "Comments": "",
+    "InActiveStatusId": "I",
+    "Sequence": "1",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "MIE",
+    "Name": "MISTAKE IN ENTRY",
+    "Description": "",
+    "Comments": "",
+    "InActiveStatusId": "I",
+    "Sequence": "2",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "DE",
+    "Name": "DUPLICATE ENTRY",
+    "Description": "",
+    "Comments": "",
+    "InActiveStatusId": "I",
+    "Sequence": "3",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  }
+]

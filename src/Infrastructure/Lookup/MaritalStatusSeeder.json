@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "-",
+    "Name": "Select an option",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "0",
+    "IsDefaultIndicator": "TRUE",
+    "IsSystemIndicator": "TRUE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "S",
+    "Name": "Single ",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "1",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "M",
+    "Name": "Married ",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "2",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "W",
+    "Name": "Widowed",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "3",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "D",
+    "Name": "Divorced",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "4",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "O",
+    "Name": "Others ",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "5",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "-",
+    "Name": "Select an option",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "0",
+    "IsDefaultIndicator": "TRUE",
+    "IsSystemIndicator": "TRUE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "RET001",
+    "Name": "Self",
+    "Description": "",
+    "Comments": "The patient is the subscriber (policy holder)",
+    "Sequence": "1",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "RET002",
+    "Name": "Spouse",
+    "Description": "",
+    "Comments": "The patient is the spouse or equivalent of the subscriber (policy holder)",
+    "Sequence": "2",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL002",
+    "Name": "Child",
+    "Description": "",
+    "Comments": "The patient is the child of the subscriber (policy holder)",
+    "Sequence": "3",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL003",
+    "Name": "Common Law Spouse",
+    "Description": "",
+    "Comments": "The patient is the common law spouse of the subscriber (policy holder)",
+    "Sequence": "4",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL004",
+    "Name": "Other",
+    "Description": "",
+    "Comments": "The patient has some other relationship, such as parent, to the subscriber (policy holder)",
+    "Sequence": "5",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  }
+]

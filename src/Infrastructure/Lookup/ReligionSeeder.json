@@ -1,0 +1,132 @@
+[
+  {
+    "Id": "-",
+    "Name": "Select an option",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "0",
+    "IsDefaultIndicator": "TRUE",
+    "IsSystemIndicator": "TRUE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL000",
+    "Name": "MAKLUMAT TIADA",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "1",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL001",
+    "Name": "ISLAM",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "2",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL002",
+    "Name": "KRISTIAN",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "3",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL003",
+    "Name": "BUDDHA",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "4",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL004",
+    "Name": "HINDU",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "5",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL005",
+    "Name": "SIKHISM",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "6",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL006",
+    "Name": "TIADA UGAMA",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "7",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL007",
+    "Name": "TAO",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "8",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL008",
+    "Name": "KONFUSIANISME",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "9",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL009",
+    "Name": "BAHAI",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "10",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL010",
+    "Name": "PUAK/SUKU",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "11",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  },
+  {
+    "Id": "REL011",
+    "Name": "LAIN UGAMA",
+    "Description": "",
+    "Comments": "",
+    "Sequence": "12",
+    "IsDefaultIndicator": "FALSE",
+    "IsSystemIndicator": "FALSE",
+    "CreatedAt": "127.0.0.1|PC1"
+  }
+]
