@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace FSH.WebApi.Domain.Lookup;
-internalclass Syahidah
+internal class Syahidah
 {
 }
